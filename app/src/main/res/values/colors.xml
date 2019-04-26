@@ -5,4 +5,6 @@
     <color name="colorAccent">#D81B60</color>
 
     <color name="color_splash_background">#FFFFFF</color>
+
+    <color name="color_icons">#FF000000</color>
 </resources>

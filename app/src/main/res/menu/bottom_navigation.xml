@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menu_nav_work"
+          android:icon="@drawable/ic_work_24dp"
+          android:title="Work"/>
+
+    <item android:id="@+id/menu_nav_study"
+          android:icon="@drawable/ic_study_24dp"
+          android:title="Study"/>
+
+    <item android:id="@+id/menu_nav_access_card"
+          android:icon="@drawable/ic_access_card_24dp"
+          android:title="Cards"/>
+
+    <item android:id="@+id/menu_nav_meeting"
+          android:icon="@drawable/ic_meeting_24dp"
+          android:title="Meetings"/>
+
+    <item android:id="@+id/menu_nav_fitness"
+          android:icon="@drawable/ic_fitness_24dp"
+          android:title="Fitness"/>
+</menu>
